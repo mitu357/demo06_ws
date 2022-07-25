@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libplus.so -o /home/zhuwencheng/demo06_ws/devel_isolated/demo03_plugin/lib/libplus.so CMakeFiles/plus.dir/src/plus.cpp.o 

@@ -1,0 +1,2 @@
+demo01_action:demo02_dr:demo03_plugin:demo04_nodelet
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/zhuwencheng/demo06_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/zhuwencheng/demo06_ws/install_isolated
